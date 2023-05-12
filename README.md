@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaybeemke2msn
 - 👀 I’m interested in expanding my knowledge
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and trying to keep my other skills sharp too
 - 📫 Get a hold of me by email at Kayla@Kayla-Ball.com
 
 <!---
